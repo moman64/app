@@ -4,18 +4,18 @@
     box-sizing:border-box;
 }
 body{
-    background:linear-gradient(120deg,#f7dfbb,#b68705);
+    background:linear-gradient(120deg,#ececeb,#b68705);
     
     margin-top:15%;
     min-height: 100vh;
     text-align: center;
 }
-.text{
+.Header{
     padding-bottom: 15px;
     color:black;
     font-size: 25px;
 }
-.input1{
+.inputName{
     padding: 10px 15px;
     width: 40%;
     border-radius:10px ;
@@ -24,27 +24,8 @@ body{
     outline: none;
     margin-bottom: 15px;
 }
-.input2{
+.inputDate{
     padding: 10px 15px;
     width: 40%;
-    border-radius:10px ;
-    border: none;
-    font-size: 18px;
-    outline: none;
-    margin-bottom: 15px;
-}
-.btn{
-    display: block;
-    margin-left:453px;
-    color:rgb(22, 21, 21);
-    width: 10%;
-    font-size:20px;
-    cursor: pointer;
-    outline:none;
-    padding: 5px;
-   
-}
-.text2{
-    margin-top: 25px;
-    font-size: 25px;
+    border-radius:5px;
 }
